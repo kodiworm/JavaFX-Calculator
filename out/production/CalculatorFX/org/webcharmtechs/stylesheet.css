@@ -1,0 +1,20 @@
+.label{
+    -fx-background-color: white;
+}
+
+.button{
+    -fx-background-color: #ff3333;
+    -fx-text-fill: white;
+}
+
+.button:hover{
+    -fx-text-fill: #f2f2f2;
+}
+
+.operatorBtns{
+    -fx-background-color: #990000;
+}
+
+.gridPane{
+     -fx-background-color: #ff3333;
+}
